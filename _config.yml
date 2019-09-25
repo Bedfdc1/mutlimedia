@@ -1,0 +1,17 @@
+markdown: kramdown
+permalink: pretty
+exclude: ['README.*', 'LICENSE.txt']
+sass:
+    style: expanded
+
+# Main Website Name 
+name: Multimedia Portfolio
+
+# website address when deployed, also given as canonical link
+url: 
+
+# The 'baseurl' is prepended to all website-internal links.
+# 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
+# If not empty, be careful to keep the leading slash, and don't add a slash at the end.
+
+baseurl: ''
